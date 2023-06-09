@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portifolio-Paulo-Ricardo/static/css/main.7f69a3de.css",
-    "main.js": "/Portifolio-Paulo-Ricardo/static/js/main.b0e944c0.js",
+    "main.js": "/Portifolio-Paulo-Ricardo/static/js/main.1dbf979f.js",
     "static/js/787.b09d73ef.chunk.js": "/Portifolio-Paulo-Ricardo/static/js/787.b09d73ef.chunk.js",
     "static/media/DSC_0711.JPG": "/Portifolio-Paulo-Ricardo/static/media/DSC_0711.4c6325ad7db6317667ab.JPG",
     "static/media/bootstrap-icons.woff?": "/Portifolio-Paulo-Ricardo/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
@@ -12,11 +12,11 @@
     "static/media/LOGO1_500px.png": "/Portifolio-Paulo-Ricardo/static/media/LOGO1_500px.e3f6dccfa343fcebc034.png",
     "index.html": "/Portifolio-Paulo-Ricardo/index.html",
     "main.7f69a3de.css.map": "/Portifolio-Paulo-Ricardo/static/css/main.7f69a3de.css.map",
-    "main.b0e944c0.js.map": "/Portifolio-Paulo-Ricardo/static/js/main.b0e944c0.js.map",
+    "main.1dbf979f.js.map": "/Portifolio-Paulo-Ricardo/static/js/main.1dbf979f.js.map",
     "787.b09d73ef.chunk.js.map": "/Portifolio-Paulo-Ricardo/static/js/787.b09d73ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f69a3de.css",
-    "static/js/main.b0e944c0.js"
+    "static/js/main.1dbf979f.js"
   ]
 }
