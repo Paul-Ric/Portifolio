@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Portifolio-Paulo-Ricardo/static/css/main.7f69a3de.css",
-    "main.js": "/Portifolio-Paulo-Ricardo/static/js/main.1dbf979f.js",
-    "static/js/787.b09d73ef.chunk.js": "/Portifolio-Paulo-Ricardo/static/js/787.b09d73ef.chunk.js",
-    "static/media/DSC_0711.JPG": "/Portifolio-Paulo-Ricardo/static/media/DSC_0711.4c6325ad7db6317667ab.JPG",
-    "static/media/bootstrap-icons.woff?": "/Portifolio-Paulo-Ricardo/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/Portifolio-Paulo-Ricardo/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/WhatsApp Image 2023-05-21 at 11.56.01.jpeg": "/Portifolio-Paulo-Ricardo/static/media/WhatsApp Image 2023-05-21 at 11.56.01.4ea2924c5e32fed42ed7.jpeg",
-    "static/media/1656978966515.jpg": "/Portifolio-Paulo-Ricardo/static/media/1656978966515.6eec0fe81960d5758148.jpg",
-    "static/media/1630271576063.jpg": "/Portifolio-Paulo-Ricardo/static/media/1630271576063.275a847ccfcad1b8f406.jpg",
-    "static/media/LOGO1_500px.png": "/Portifolio-Paulo-Ricardo/static/media/LOGO1_500px.e3f6dccfa343fcebc034.png",
-    "index.html": "/Portifolio-Paulo-Ricardo/index.html",
-    "main.7f69a3de.css.map": "/Portifolio-Paulo-Ricardo/static/css/main.7f69a3de.css.map",
-    "main.1dbf979f.js.map": "/Portifolio-Paulo-Ricardo/static/js/main.1dbf979f.js.map",
-    "787.b09d73ef.chunk.js.map": "/Portifolio-Paulo-Ricardo/static/js/787.b09d73ef.chunk.js.map"
+    "main.css": "/Portifolio/static/css/main.971c94b1.css",
+    "main.js": "/Portifolio/static/js/main.abc1cbcd.js",
+    "static/js/787.b09d73ef.chunk.js": "/Portifolio/static/js/787.b09d73ef.chunk.js",
+    "static/media/DSC_0711.JPG": "/Portifolio/static/media/DSC_0711.4c6325ad7db6317667ab.JPG",
+    "static/media/bootstrap-icons.woff?": "/Portifolio/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Portifolio/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/WhatsApp Image 2023-05-21 at 11.56.01.jpeg": "/Portifolio/static/media/WhatsApp Image 2023-05-21 at 11.56.01.4ea2924c5e32fed42ed7.jpeg",
+    "static/media/1656978966515.jpg": "/Portifolio/static/media/1656978966515.6eec0fe81960d5758148.jpg",
+    "static/media/1630271576063.jpg": "/Portifolio/static/media/1630271576063.275a847ccfcad1b8f406.jpg",
+    "static/media/LOGO1_500px.png": "/Portifolio/static/media/LOGO1_500px.e3f6dccfa343fcebc034.png",
+    "index.html": "/Portifolio/index.html",
+    "main.971c94b1.css.map": "/Portifolio/static/css/main.971c94b1.css.map",
+    "main.abc1cbcd.js.map": "/Portifolio/static/js/main.abc1cbcd.js.map",
+    "787.b09d73ef.chunk.js.map": "/Portifolio/static/js/787.b09d73ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f69a3de.css",
-    "static/js/main.1dbf979f.js"
+    "static/css/main.971c94b1.css",
+    "static/js/main.abc1cbcd.js"
   ]
 }
